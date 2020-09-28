@@ -31,7 +31,7 @@ python3 life_animation.py --help
 ## Examples
 ![Infinite](https://github.com/AleksandraOD/5G_game/blob/master/life.gif)
 ```
-python3 life_animation.py --field-size "50,10" --n-generations 150 --cmap "Greens"
+python3 life_animation.py --field-size "100,100" --n-generations 150 --cmap "Greens"
 ```
 
 By default, animations save automatically once generated (with filename: `life.gif`) .
