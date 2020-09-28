@@ -29,7 +29,7 @@ python3 life_animation.py --help
 ```
 
 ## Examples
-![Infinite]()
+![Infinite](https://github.com/AleksandraOD/5G_game/blob/master/life.gif)
 ```
 python3 life_animation.py --field-size "50,10" --n-generations 150 --cmap "Greens"
 ```
